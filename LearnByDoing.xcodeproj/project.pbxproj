@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		A8408970256E829F0073EA2B /* CardModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A840896F256E829E0073EA2B /* CardModel.swift */; };
+		A8408972256E84660073EA2B /* CardData.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8408971256E84660073EA2B /* CardData.swift */; };
 		A8B1A773256D58020007D42D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8B1A772256D58020007D42D /* AppDelegate.swift */; };
 		A8B1A775256D58020007D42D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8B1A774256D58020007D42D /* SceneDelegate.swift */; };
 		A8B1A777256D58020007D42D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8B1A776256D58020007D42D /* ContentView.swift */; };
@@ -19,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		A840896F256E829E0073EA2B /* CardModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardModel.swift; sourceTree = "<group>"; };
+		A8408971256E84660073EA2B /* CardData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardData.swift; sourceTree = "<group>"; };
 		A8B1A76F256D58020007D42D /* LearnByDoing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearnByDoing.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8B1A772256D58020007D42D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A8B1A774256D58020007D42D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 				A8B1A77A256D58050007D42D /* Preview Content */,
 				A8B1A786256D9EF80007D42D /* CardView.swift */,
 				A840896F256E829E0073EA2B /* CardModel.swift */,
+				A8408971256E84660073EA2B /* CardData.swift */,
 			);
 			path = LearnByDoing;
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 				A8B1A773256D58020007D42D /* AppDelegate.swift in Sources */,
 				A8B1A775256D58020007D42D /* SceneDelegate.swift in Sources */,
 				A8B1A787256D9EF80007D42D /* CardView.swift in Sources */,
+				A8408972256E84660073EA2B /* CardData.swift in Sources */,
 				A8B1A777256D58020007D42D /* ContentView.swift in Sources */,
 				A8408970256E829F0073EA2B /* CardModel.swift in Sources */,
 			);
