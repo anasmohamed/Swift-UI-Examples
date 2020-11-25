@@ -9,8 +9,17 @@
 import SwiftUI
 
 struct ContentView: View {
+    // MARK : - CONTENT
     var body: some View {
-        Text("Hello, World!")
+        ScrollView(.horizontal)
+        {
+            HStack (alignment: .center, spacing: 20, content:{
+                ForEach(0 ..< 5) { item in
+                    CardView()
+                }
+            })
+        }.padding(20)
+        
     }
 }
 
